@@ -13,7 +13,7 @@ setuptools.setup(
     author_email='vilma.virtu@gmail.com',
     license='MIT',
     packages=['ruleex',
-              'ruleexModified.anndt',
+              'ruleex.anndt',
               'ruleex.deepred',
               'ruleex.hypinv',
               'ruleex.tree'],
